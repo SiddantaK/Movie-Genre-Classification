@@ -7,13 +7,8 @@ This repository contains a machine learning project for classifying movie genres
 The dataset, sourced from Kaggle, includes metadata from IMDB movies. The key features are as follows:
 
 - **Movie Name**: Title of the movie.
-- **Director**: Name of the movie's director.
-- **Actors**: List of the main actors.
 - **Genres**: One or more genres associated with the movie (e.g., Action, Comedy, Drama).
-- **Plot**: A brief description of the movie's storyline.
-- **Language**: Language in which the movie was made.
-- **Country**: Country of production.
-- **Year**: Release year of the movie.
+- **Description**: A brief description of the movie's storyline.
 
 ### Dataset Size
 
